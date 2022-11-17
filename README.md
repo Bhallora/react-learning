@@ -1,3 +1,4 @@
 # react-learning
 
-Simple Hello World page using javascript and react.
+This repository contains some of the completed assignments that we are given during Namaste React BootCamp.
+And Hell ya React Rocks !!!
